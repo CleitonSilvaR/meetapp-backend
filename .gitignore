@@ -61,4 +61,7 @@ typings/
 .next
 
 
-src/config/*.js
+src/config/auth.js
+src/config/database.js
+
+tmp
